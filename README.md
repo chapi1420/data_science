@@ -71,5 +71,5 @@ Each project in this repository follows the **PACE** framework:
 ---
 
 ## 📬 Contact & Links
-* **LinkedIn:** [Nahom Temesgen N](https://www.linkedin.com/in/nahom-temesgen-nadew-8b504534b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F3qKBaoBS8WSDTMeEtbgKw%3D%3D)
+* **LinkedIn:** [Nahom Temesgen Nadew]
 * **Email:** [nadewnahom8@gmail.com]
