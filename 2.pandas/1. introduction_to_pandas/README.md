@@ -38,6 +38,5 @@ for row in data:
         count += 1
 avg = total / count
 ```
-```pandas
+pandas:
 avg = df.loc[df['region'] == 'West', 'revenue'].mean()
-```
